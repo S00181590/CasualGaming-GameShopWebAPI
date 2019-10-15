@@ -1,0 +1,2 @@
+# CasualGaming-GameShopWebAPI
+WebApi shop
